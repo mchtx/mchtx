@@ -1,57 +1,35 @@
 <div align="center">
 
-# 👋 Hi, I'm Mücahit 
+# Mücahit 
 
-<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Java & Spring Expert</h3>
+### Full-Stack Developer | Java & Spring Specialist
 
-<p align="center">
-  <a href="mailto:mcht762@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/m%C3%BCcahit-%C3%A7al%C4%B1%C5%9F/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-</p>
+📫 mcht762@gmail.com
 
 </div>
 
-## 🔧 Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend Development
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Backend Development
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### Databases
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="40" height="40"/>
 
-### 🤖 AI/ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-## 📊 GitHub Stats
+### AI/ML
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
 
 <div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchtx&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchtx&layout=compact&theme=radical&hide_border=true&langs_count=8)
+## GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mchtx&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mchtx&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchtx&layout=compact&theme=dark" alt="Top Languages"/>
 
-## 🐍 Contribution Graph
-<div align="center">
-  
 ![Contribution Snake](https://github.com/mchtx/mchtx/blob/output/github-contribution-grid-snake.svg)
 
 </div>
