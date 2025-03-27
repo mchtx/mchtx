@@ -1,43 +1,59 @@
-# Hi there 👋 I'm [Your Name]
-
-🚀 **Full-Stack Developer | AI Enthusiast | Open Source Contributor**
-
-[![Website Badge](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-
-## 🔧 Technologies & Tools
-### 🛠️ Core Stack
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### ⚙️ Other Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🚀 Currently Exploring
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-
-
-## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchtx&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchtx&layout=compact&theme=radical" />
+
+# 👋 Hi, I'm Mücahit 
+
+<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Java & Spring Expert</h3>
+
+<p align="center">
+  <a href="mailto:sametkopar465@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+## 🔧 Tech Stack
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🤖 AI/ML
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchtx&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchtx&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mchtx&theme=radical&hide_border=true)
+
 </div>
 
 ## 🐍 Contribution Graph
+<div align="center">
+  
 ![Contribution Snake](https://github.com/mchtx/mchtx/blob/output/github-contribution-grid-snake.svg)
 
-## 💬 Let's Connect
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 💼 Professional inquiries: [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Daily thoughts: [Twitter](https://twitter.com/yourhandle)
-
-## ⚡ Fun Facts
-- � I speak 3 languages fluently
-- 🚴‍♂️ I cycle 100km every month
+</div>
