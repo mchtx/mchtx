@@ -24,6 +24,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchtx&layout=compact" alt="Top Languages"/>
 
-![Contribution Snake](https://github.com/mchtx/mchtx/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Graph
+![Contribution Snake](https://github.com/mchtx/mchtx/blob/main/assets/github-contribution-grid-snake.svg)
 
 </div>
