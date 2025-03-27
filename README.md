@@ -20,9 +20,9 @@
 
 ## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=mchtx&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mchtx&show_icons=true&count_private=true" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchtx&layout=compact&theme=dark" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchtx&layout=compact" alt="Top Languages"/>
 
 ![Contribution Snake](https://github.com/mchtx/mchtx/blob/output/github-contribution-grid-snake.svg)
 
