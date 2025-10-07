@@ -33,7 +33,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchtx&layout=compact&theme=dark" alt="Top Languages"/>
 
-## 🐍 Katkı Yılanım
-![Yılan grafiği](https://raw.githubusercontent.com/mchtx/mchtx/main/snake.svg)
+
 
 </div>
