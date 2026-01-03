@@ -2,7 +2,7 @@
 
 # Mücahit 
 
-### Full-Stack Developer | Java & Spring Specialist
+### Full-Stack Developer | Java & Spring Specialist | Finansal Çözümler
 
 📫 mcht762@gmail.com
 
